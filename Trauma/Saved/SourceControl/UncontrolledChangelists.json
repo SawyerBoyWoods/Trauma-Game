@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/alecc/OneDrive/Documents/GitHub/Trauma-Game/Trauma/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/Z5/DPHXHRB9PNDHFEHMQJRA0O.uasset",
+				"C:/Users/alecc/OneDrive/Documents/GitHub/Trauma-Game/Trauma/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/LW/L86XQF93JOTJH23FK8R0SF.uasset",
+				"C:/Users/alecc/OneDrive/Documents/GitHub/Trauma-Game/Trauma/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/T3/1KIHNL6V3DI0L8I82C7M5Z.uasset",
+				"C:/Users/alecc/OneDrive/Documents/GitHub/Trauma-Game/Trauma/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/RC/THJSTK8Z1Q1FNPI112I3J9.uasset",
+				"C:/Users/alecc/OneDrive/Documents/GitHub/Trauma-Game/Trauma/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/4T/JYFV9JZS23PRAHFXG8BJ82.uasset",
+				"C:/Users/alecc/OneDrive/Documents/GitHub/Trauma-Game/Trauma/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/XC/KB14GOHIYTT69D1MJIVTKE.uasset",
+				"C:/Users/alecc/OneDrive/Documents/GitHub/Trauma-Game/Trauma/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HU/TM9YJ5DFWK87GN8ZTTSXEA.uasset",
+				"C:/Users/alecc/OneDrive/Documents/GitHub/Trauma-Game/Trauma/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/1O/314I9YG87R5EGFHOL9DEDD.uasset",
+				"C:/Users/alecc/OneDrive/Documents/GitHub/Trauma-Game/Trauma/Content/FirstPerson/Maps/_GENERATED/alecc/Box_69B499A1.uasset",
+				"C:/Users/alecc/OneDrive/Documents/GitHub/Trauma-Game/Trauma/Content/FirstPerson/Maps/_GENERATED/alecc/Box_8FB68A3B.uasset",
+				"C:/Users/alecc/OneDrive/Documents/GitHub/Trauma-Game/Trauma/Content/FirstPerson/Maps/_GENERATED/alecc/Box_E94E3244.uasset",
+				"C:/Users/alecc/OneDrive/Documents/GitHub/Trauma-Game/Trauma/Content/FirstPerson/Maps/_GENERATED/alecc/Box_EEE3F0AE.uasset",
+				"C:/Users/alecc/OneDrive/Documents/GitHub/Trauma-Game/Trauma/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/PP/2TJ5RBLVLNYBDXWKB7JBWZ.uasset",
+				"C:/Users/alecc/OneDrive/Documents/GitHub/Trauma-Game/Trauma/Content/FirstPerson/Maps/_GENERATED/alecc/Extrude_A92B0CBA.uasset",
+				"C:/Users/alecc/OneDrive/Documents/GitHub/Trauma-Game/Trauma/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/9V/EWOEXRT9MTPM4FQCNTLJB7.uasset"
+			]
+		}
+	]
+}
